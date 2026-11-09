@@ -1,0 +1,10 @@
+theme: basket
+category: prop
+size: [12, 10, 12]
+palette_source: theme_asset
+palette:
+  - [142, 118, 65]
+  - [128, 103, 62]
+  - [88, 71, 43]
+  - [60, 20, 82]
+  - [97, 47, 127]

@@ -1,0 +1,9 @@
+theme: crate
+category: prop
+size: [16, 16, 16]
+palette_source: theme_asset
+palette:
+  - [139, 90, 43]
+  - [101, 67, 33]
+  - [160, 120, 70]
+  - [70, 70, 75]

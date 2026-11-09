@@ -1,0 +1,11 @@
+id: crate-demo
+seed: 7
+text: "木制板条箱，包铁边"
+params:
+  category: prop
+  theme: crate
+  size: [16, 16, 16]
+  palette_source: theme_asset
+  backend: procedural
+export:
+  formats: [vox, qb, glb]

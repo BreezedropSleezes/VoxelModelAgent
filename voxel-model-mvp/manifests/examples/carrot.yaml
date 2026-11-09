@@ -1,0 +1,11 @@
+id: carrot-demo
+seed: 42
+text: "带绿叶的胡萝卜"
+params:
+  category: plant
+  theme: carrot
+  size: [12, 20, 12]
+  palette_source: theme_asset
+  backend: procedural
+export:
+  formats: [vox, qb, glb]

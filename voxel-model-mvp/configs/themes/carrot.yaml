@@ -1,0 +1,10 @@
+theme: carrot
+category: plant
+size: [12, 20, 12]
+palette_source: theme_asset
+palette:
+  - [232, 120, 40]   # orange
+  - [210, 90, 28]    # dark orange
+  - [70, 140, 55]    # leaf
+  - [45, 110, 40]    # leaf dark
+  - [160, 100, 50]   # soil hint

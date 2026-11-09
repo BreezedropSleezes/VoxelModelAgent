@@ -1,0 +1,11 @@
+theme: stew
+category: item
+size: [12, 10, 12]
+palette_source: theme_asset
+# Colors inspired by food-ref palette stats (not copied voxels)
+palette:
+  - [106, 103, 94]
+  - [88, 86, 78]
+  - [58, 104, 49]
+  - [138, 133, 123]
+  - [55, 28, 5]
