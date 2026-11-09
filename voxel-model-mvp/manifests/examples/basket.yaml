@@ -1,0 +1,11 @@
+id: basket-demo
+seed: 3
+text: "浆果篮"
+params:
+  category: prop
+  theme: basket
+  size: [12, 10, 12]
+  palette_source: theme_asset
+  backend: procedural
+export:
+  formats: [vox, qb, glb]

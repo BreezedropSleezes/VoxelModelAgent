@@ -1,0 +1,5 @@
+# Default pipeline knobs (MVP)
+grid_hard_cap: 64
+default_formats: [vox, qb, glb]
+default_backend: procedural
+reject_building_themes: true

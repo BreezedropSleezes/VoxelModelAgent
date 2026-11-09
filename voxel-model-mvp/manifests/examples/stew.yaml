@@ -1,0 +1,11 @@
+id: stew-demo
+seed: 99
+text: "一锅炖菜占位道具"
+params:
+  category: item
+  theme: stew
+  size: [12, 10, 12]
+  palette_source: theme_asset
+  backend: procedural
+export:
+  formats: [vox, qb, glb]
